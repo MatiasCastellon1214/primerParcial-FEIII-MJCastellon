@@ -1,0 +1,19 @@
+.listContainer{
+    display: grid;
+    grid-template-columns: auto;    
+    justify-content: center;
+
+}
+
+
+@media (min-width: 700px) {
+    .listContainer {
+        grid-template-columns: auto auto auto;
+    }
+}
+
+@media (min-width: 992px) {
+    .listContainer {
+        grid-template-columns: auto auto auto auto;
+    }
+}

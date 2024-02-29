@@ -1,9 +1,12 @@
-import React from 'react'
+import React from 'react';
 
-const Card = () => {
+const Card = ({alumno}) => {
   return (
-    <div>This is a Card Component</div>
-  )
+    <div>
+      <p>Hola {alumno.nombre}</p>
+      <p>Usted ha reservado turno para tomar clases de apoyo de: {alumno.asignatura}</p>
+    </div>
+  );
 }
 
-export default Card
+export default Card;

@@ -1,0 +1,15 @@
+.card{
+    margin: 20px;
+    border: 1px solid aliceblue;
+    display: flex; 
+    flex-direction: column; 
+    justify-content: center;
+    align-items: center; 
+    width: 80%;
+    max-width: 200px;
+    min-height: 150px;
+
+}
+
+
+
