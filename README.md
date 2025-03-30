@@ -4,10 +4,6 @@
 
 This is a project developed with React and Vite for the subject **Frontend 3**. The application allows to manage consulting classes, where users can enter a name and a subject, and visualize a list of teachers with their respective subjects.
 
-## 🖼️ Live Demo
-
-
-
 ## 🛠️ Technologies Used
 - <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="React" width="30"/> React
 - <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="JavaScript" width="30"/> JavaScript
@@ -54,6 +50,11 @@ npm run dev
 - ➕ Send button to add new classes for consultation.
 - 📋 List of teachers with their respective subjects.
 - 🌙 Styles in dark mode for a better visual experience.
+
+## 🖼️ Live Demo
+
+![Demo](public/primerParcialFEIII.gif)
+
 
 ## 👨‍💻 Author
 
