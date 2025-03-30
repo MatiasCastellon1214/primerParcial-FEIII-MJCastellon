@@ -9,11 +9,10 @@ Este es un proyecto desarrollado con React y Vite para la materia **Frontend 3**
 
 
 ## 🛠️ Tecnologías Utilizadas
-
-- ⚛️ React
-- 🚀 Vite
-- 🎨 CSS
-- 📜 JavaScript
+- <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="React" width="30"/> React
+- <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="JavaScript" width="30"/> JavaScript
+- <img src="https://upload.wikimedia.org/wikipedia/commons/f/f1/Vitejs-logo.svg" alt="Vite" width="30"/> Vite
+- <img src="https://upload.wikimedia.org/wikipedia/commons/6/62/CSS3_logo.svg" alt="CSS" width="30"/> CSS
 
 ## 🚀 Instalación y Ejecución
 
